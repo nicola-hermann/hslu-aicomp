@@ -1,10 +1,10 @@
 # MAP_CSMM - HSLU AI Competition Package
 
-A Python package developed for the HSLU AI Competition.
+A Python package developed for the HSLU AI Competition, specifically for the "MAP: Charting Student Math Misunderstandings" Kaggle competition.
 
 ## Description
 
-This package provides tools and utilities for the HSLU AI Competition. The project is structured as a proper Python package with modern tooling including `uv` for dependency management and `ruff` for code formatting and linting.
+This package provides tools and utilities for the HSLU AI Competition, targeting the [MAP: Charting Student Math Misunderstandings](https://www.kaggle.com/c/map-charting-student-math-misunderstandings) Kaggle competition. The project is structured as a proper Python package with modern tooling including `uv` for dependency management and `ruff` for code formatting and linting.
 
 ## Requirements
 
